@@ -1,2 +1,3 @@
 # html-links-and-images
-Create HTML links to toher sites.
+Create Abosolute and Relative Links with HTML.
+Use elements such as height,width,alt
